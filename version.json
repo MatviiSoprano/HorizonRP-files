@@ -12,7 +12,7 @@
 
   "server1": { 
     "name": "Horizon RP #1", 
-    "ip": "ghost7-rp.svpj.pl", 
+    "ip": "51.83.172.144", 
     "port": 7777
   },
   "server2": {
