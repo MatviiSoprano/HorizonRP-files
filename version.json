@@ -1,5 +1,17 @@
 {
   "version": "1",
-  "news_title": "Оновлення 1.0",
-  "news_text": "Ми запустили лаунчер OxygenGames! Приємної гри."
+  "news_title": "Horizon RP: Новий проект! Нова ера!",
+  "news_text": "Створення нового лаунчера і всього нового",
+  "news_image_url": "https://github.com/MatviiSoprano/HorizonRP-files/blob/main/images.jpg",
+  "github_info_text": "Лаунчер буде оновлюватися через GitHub, лаунчер знаходиться на стадії розробки повідомити про баги можна в телеграм каналі проекту.\nРозробник: OxygenGAMES",
+  "server1": { 
+    "name": "Horizon RP #1", 
+    "ip": "ghost7-rp.svpj.pl", 
+    "port": 777 
+  },
+  "server2": {
+    "name": "update server(localhost)",
+    "ip": localhost",
+    "port": 7777
+  }
 }
