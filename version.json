@@ -2,7 +2,7 @@
   "version": "1",
   "news_title": "Horizon RP: Новий проект!\n Нова ера!",
   "news_text": "Створення нового лаунчера і всього нового",
-  "news_image_url": "https://github.com/MatviiSoprano/HorizonRP-files/blob/main/images.jpg",
+  "news_image_url": "https://raw.githubusercontent.com/MatviiSoprano/HorizonRP-files/main/images.jpg",
   "github_info_text": "Лаунчер буде оновлюватися через GitHub, лаунчер знаходиться на стадії розробки повідомити про баги можна в телеграм каналі проекту.\nРозробник: OxygenGAMES",
   "server1": { 
     "name": "Horizon RP #1", 
@@ -11,7 +11,6 @@
   },
   "server2": {
     "name": "update server(localhost)",
-    "ip": "localhost",
+    "ip": "127.0.0.1",
     "port": 7777
   }
-}
