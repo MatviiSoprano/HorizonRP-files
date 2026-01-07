@@ -1,9 +1,15 @@
 {
   "version": "1",
-  "news_title": "Horizon RP: Новий проект!\n Нова ера!",
-  "news_text": "Створення нового лаунчера і всього нового",
+  "news_title": "Horizon RP: Новий проект!",
+  "news_text": "Створення нового лаунчера і всього нового. Нова ера вже тут!",
   "news_image_url": "https://raw.githubusercontent.com/MatviiSoprano/HorizonRP-files/main/images.jpg",
-  "github_info_text": "Лаунчер буде оновлюватися через GitHub, лаунчер знаходиться на стадії розробки повідомити про баги можна в телеграм каналі проекту.\nРозробник: OxygenGAMES",
+  "github_info_text": "Лаунчер буде оновлюватися через GitHub, лаунчер знаходиться на стадії розробки повідомити про баги можна в телеграм каналі проекту.\nOxygenGAMES",
+
+  "news_title_left": "X4 PayDay та донат!",
+  "news_text_left": "Ми додали центральний блок новин. Тепер ви будете бачити ще більше подій!",
+  "news_image_url_left": "",
+  "github_info_text_left": "На сервеі діє акція в честь відкриття Х4 PayDay та донат на всі сервера.\n Це означає що тепер при поповненні 5грн - 20ігрового донату.Акція невічна.\nOxygenGAMES",
+
   "server1": { 
     "name": "Horizon RP #1", 
     "ip": "ghost7-rp.svpj.pl", 
@@ -13,6 +19,5 @@
     "name": "test",
     "ip": "127.0.0.1",
     "port": 7777
-              }
+  }
 }
-  
