@@ -11,7 +11,7 @@
   },
   "server2": {
     "name": "update server(localhost)",
-    "ip": localhost",
+    "ip": "localhost",
     "port": 7777
   }
 }
