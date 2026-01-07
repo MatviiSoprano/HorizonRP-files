@@ -7,7 +7,7 @@
   "server1": { 
     "name": "Horizon RP #1", 
     "ip": "ghost7-rp.svpj.pl", 
-    "port": 777 
+    "port": 7777
   },
   "server2": {
     "name": "update server(localhost)",
