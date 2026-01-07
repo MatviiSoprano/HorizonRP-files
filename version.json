@@ -7,17 +7,17 @@
 
   "news_title_left": "X4 PayDay та донат!",
   "news_text_left": "X4 PayDay ;)",
-  "news_image_url_left": "https://github.com/MatviiSoprano/HorizonRP-files/blob/main/2839134094_preview_id-g2brfv0qxfs-youtube-automatic.jpg",
+  "news_image_url_left": "https://raw.githubusercontent.com/MatviiSoprano/HorizonRP-files/main/2839134094_preview_id-g2brfv0qxfs-youtube-automatic.jpg",
   "github_info_text_left": "На сервеі діє акція в честь відкриття Х4 PayDay та донат на всі сервера.\n Це означає що тепер при поповненні ваша сума в 4 рази буде більша в ігровому донаті.\nАкція невічна.\nOxygenGAMES",
 
   "server1": { 
     "name": "Horizon RP #1", 
     "ip": "51.83.172.144", 
     "port": 7777
-              },
+  },
   "server2": {
     "name": "test",
     "ip": "127.0.0.1",
     "port": 7777
-            }
+  }
 }
